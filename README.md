@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thygasantos
 - 👀 ESTUDAR & APRENDER
 - 🌱 DEPLOY/BUILD
-- 💞️ CODE/GAMER/JAVA/PHP
+- 💞️ GAMER/MTA:SA/BR
 - 📫 +55 38 9 8846 1003
 
 <!---

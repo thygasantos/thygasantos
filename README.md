@@ -10,11 +10,11 @@
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/thygasantos/start-apps/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/thygasantos/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/thygasantos/thygasantos/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/thygasantos/thygasantos?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/thygasantos/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/thygasantos/thygasantos/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/thygasantos/thygasantos?color=0088ff" />
     </a>
     <br />
     <br />

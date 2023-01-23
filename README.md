@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=aura&count_private=true)
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">

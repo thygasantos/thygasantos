@@ -17,8 +17,8 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/thygasantos/thygasantos?color=0088ff" />
     </a>
 </a>
-    <a href="https://github.com/thygasantos/thygasantos/">
-      <img alt="Visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3Dblue" />
+    <a href="https://github.com/thygasantos/">
+      <img alt="Visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff" />
     </a>
     <br />
     <br />

@@ -7,7 +7,7 @@
     <a href="https://github.com/thygasantos/thygasantos/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/thygasantos" />
     </a>
-    
+    </a>
     <a href="https://github.com/thygasantos/thygasantos/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/thygasantos/thygasantos?color=0088ff" />
     </a>

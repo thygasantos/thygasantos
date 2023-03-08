@@ -7,9 +7,7 @@
     <a href="https://github.com/thygasantos/thygasantos/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/thygasantos" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
+    
     <a href="https://github.com/thygasantos/thygasantos/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/thygasantos/thygasantos?color=0088ff" />
     </a>
@@ -18,7 +16,7 @@
     </a>
 </a>
     <a href="https://github.com/thygasantos/">
-      <img alt="Visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff&label=Visitas" />
+      <img alt="visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff&label=visitas" />
     </a>
     <br />
     <br />

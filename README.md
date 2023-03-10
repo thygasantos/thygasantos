@@ -1,11 +1,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=aura&count_private=true&hide_rank=false&include_all_commits=true)
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <a href="#">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/thygasantos/thygasantos/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/thygasantos" />
+</a>
+    <a href="#">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/portfolio?color=0088ff" />
+    </a>
+</a>
+<a href="#">
+      <img alt="GitHub Contributors" src="https://api.checklyhq.com/v1/badges/checks/08fe9c91-6044-4c49-ac63-0e2ae8acac14?style=flat&theme=default&responseTime=true" />
     </a>
     </a>
     <a href="https://github.com/thygasantos/thygasantos/issues">

@@ -6,7 +6,7 @@
     </a>
 </a>
     <a href="#">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/portfolio?color=0088ff" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/Game-Match-Three-Blueprint?color=0088ff" />
     </a>
 </a>
 <a href="#">

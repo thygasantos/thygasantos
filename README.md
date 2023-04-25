@@ -1,3 +1,4 @@
+- ESTATÍSTICAS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=aura&count_private=true&hide_rank=false&include_all_commits=true)
 
 <p align="center">

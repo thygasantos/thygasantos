@@ -11,9 +11,7 @@
     </a>
 </a>
    
-    <a href="https://github.com/thygasantos/thygasantos/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/thygasantos/thygasantos?color=0088ff" />
-    </a>
+ 
 
 </a>    <a href="https://github.com/thygasantos/">
       <img alt="visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff&label=visitas" />

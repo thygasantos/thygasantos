@@ -11,16 +11,10 @@
     </a>
 </a>
    
-<a href="#">
-      <img alt="GitHub Contributors" src="https://api.checklyhq.com/v1/badges/checks/08fe9c91-6044-4c49-ac63-0e2ae8acac14?style=flat&theme=default&responseTime=true" />
-    </a>
-    </a>
     <a href="https://github.com/thygasantos/thygasantos/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/thygasantos/thygasantos?color=0088ff" />
     </a>
-    <a href="https://github.com/thygasantos/thygasantos/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/thygasantos/thygasantos?color=0088ff" />
-    </a>
+
 </a>    <a href="https://github.com/thygasantos/">
       <img alt="visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff&label=visitas" />
     </a>

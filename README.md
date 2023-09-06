@@ -14,6 +14,7 @@
     <a href="https://github.com/thygasantos/">
       <img alt="visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff&label=visitas" />
     </a>
+</a>
     <br />
     <br />
   

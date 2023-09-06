@@ -10,7 +10,6 @@
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/thygasantos/Game-Match-Three-Blueprint?color=0088ff" />
     </a>
 </a>
-<a href="#">
    
     <a href="https://github.com/thygasantos/">
       <img alt="visitas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthygasantos%2Fthygasantos.json%3Fcolor%3D0088ff&label=visitas" />

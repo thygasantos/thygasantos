@@ -1,7 +1,7 @@
 # - ESTATÍSTICAS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=default&count_private=true&hide_rank=false&include_all_commits=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thygasantos)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p align="center">

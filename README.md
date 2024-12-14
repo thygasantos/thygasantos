@@ -9,7 +9,7 @@
 </h1>
 <div align="center">
 <!-- website -->
-    <a href="https://twitter.com/thyagomsantos"><img alt="Twitter badge" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white">
+    <a href="https://twitter.com/thyagomsantos"><img alt="Twitter badge" src="https://img.shields.io/badge/-Twitter-000000?logo=X&logoColor=white">
     </a>
     <a href="https://www.instagram.com/thyagomsantos"><img alt="Instagram badge" src="https://img.shields.io/badge/-Instagram-8a3ab9?logo=Instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/thyagosantos23"><img alt="Facebook badge" src="https://img.shields.io/badge/-Facebook-0061ec?logo=Facebook&logoColor=white"></a>

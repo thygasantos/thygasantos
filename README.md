@@ -1,6 +1,6 @@
 <h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>Thyago Santos :octocat: </b>
+    <img align="center" src="/sonic-gif.gif" width="100px">  <br>
+   I'm <b>Thyago Santos  </b>
   <br>
   <br>
   <a href="https://github.com/thygasantos">

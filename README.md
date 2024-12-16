@@ -6,6 +6,9 @@
   <a href="https://github.com/thygasantos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=radical" />
 </a>
+    <br>
+      <img align="center" src="https://raw.githubusercontent.com/thygasantos/thygasantos/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
 </h1>
 <div align="center">
 <!-- website -->

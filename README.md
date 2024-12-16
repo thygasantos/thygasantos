@@ -4,7 +4,7 @@
   <br>
   <br>
   <a href="https://github.com/thygasantos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thygasantos&show_icons=true&theme=cobalt&count_private=true&bg_color=000000&border_radius=4.5&title_color=00ffea&cache_seconds=14400&locale=en&hide_border=false&icon_color=00ffea&text_color=00ffea" />
 </a>
     <br>
 

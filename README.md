@@ -13,7 +13,7 @@
 <!-- website -->
     <a href="https://twitter.com/thyagomsantos"><img alt="Twitter badge" src="https://img.shields.io/badge/-Twitter-000000?logo=X&logoColor=white">
     </a>
-      <a href="https://link.mercadopago.com.br/thygasantos"><img alt="Donate badge" src="https://img.shields.io/badge/-$ Donate-GREEN?logo=$&logoColor=black">
+      <a href="https://onapp.vercel.app"><img alt="ONAPP badge" src="https://img.shields.io/badge/-$ ON-APP-BLUE?logo=$&logoColor=white">
     </a>
     <a href="https://www.instagram.com/thyagomsantos"><img alt="Instagram badge" src="https://img.shields.io/badge/-Instagram-8a3ab9?logo=Instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/thyagosantos23"><img alt="Facebook badge" src="https://img.shields.io/badge/-Facebook-0061ec?logo=Facebook&logoColor=white"></a>

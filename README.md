@@ -13,8 +13,9 @@
 <!-- website -->
     <a href="https://twitter.com/thyagomsantos"><img alt="Twitter badge" src="https://img.shields.io/badge/-Twitter-000000?logo=X&logoColor=white">
     </a>
-      <a href="https://onapp.vercel.app"><img alt="Donate badge" src="https://img.shields.io/badge/-$ ON-APP-BLUE?logo=$&logoColor=white">
-    </a>
+     <a href="https://onapp.vercel.app">
+  <img alt="Donate badge" src="https://img.shields.io/static/v1?label=&message=-$%20ON-APP&color=blue&logo=cashapp&logoColor=white">
+</a>
     <a href="https://www.instagram.com/thyagomsantos"><img alt="Instagram badge" src="https://img.shields.io/badge/-Instagram-8a3ab9?logo=Instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/thyagosantos23"><img alt="Facebook badge" src="https://img.shields.io/badge/-Facebook-0061ec?logo=Facebook&logoColor=white"></a>
     <a href="mailto:thyagomatheus15@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>

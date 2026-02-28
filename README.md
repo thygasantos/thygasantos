@@ -10,7 +10,6 @@
 
 </h1>
 <div align="center">
-#DONATE
 
 b5202d65-939b-422e-8e36-0ae6eef30e4b
 
